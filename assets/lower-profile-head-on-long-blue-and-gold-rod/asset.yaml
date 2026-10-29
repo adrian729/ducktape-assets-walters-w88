@@ -1,0 +1,57 @@
+# descriptive: find it and understand it
+id: lower-profile-head-on-long-blue-and-gold-rod
+title: Long margin rod ending in a hooded profile head
+description: A tall vertical bar. For two thirds of its height it is a wide band of gold, pink with a white wavy line, and blue with white edges, cut flat at the top. It then narrows through a blue and pink angular leaf knot with a white lobe into a thin blue rod that curves to the left at the bottom and ends in a human head in profile with a white hood, facing left. Black contours; the background is transparent.
+type: divider
+categories:
+  - scrollwork
+  - fantasy
+subjects:
+  - rod
+  - head
+  - face
+  - hood
+  - grotesque
+  - marginalia
+colors:
+  - blue
+  - gold
+  - pink
+  - cream
+  - black
+facing: left
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 136r
+render:
+  image: {}
+related:
+  - asset: walters-w88/corner-rod-with-hooded-head
+    role: companion
+  - asset: walters-w88/short-blue-and-gold-curled-leaf-terminal
+    role: companion
+usage_notes:
+  - The head hangs below the rod and looks left; use it down the right edge of a block, or flip it for the left.
+display_width:
+  - 60
+  - 200
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Cut flat at the top edge where it left the bar border.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Dancing monkeys
+  object_identifier: W.88, fol. 136r
+  date: First quarter 14th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000277_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 0ca359b8bb9e459d4ce4b081bab988f943522ac776ec806f69b86008d6b51f9a
+license: null

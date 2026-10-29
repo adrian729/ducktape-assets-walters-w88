@@ -1,0 +1,55 @@
+# descriptive: find it and understand it
+id: corner-rod-with-hooded-head
+title: Corner rod with a hooded head at the top
+description: An L-shaped piece of bar border. A thin tan and gold rod with a pink inner band and white dots rises from a lower-left knot and carries at its top a human head in a pale green hood, the face turned to the right. At the foot the rod meets a pink and blue angular knot with a white curl and a gold boss, from which a short horizontal bar of blue, white and gold runs to the right and ends in a gold leaf tip. Black contours; the background is transparent.
+type: corner
+categories:
+  - scrollwork
+  - fantasy
+subjects:
+  - rod
+  - head
+  - hood
+  - grotesque
+  - marginalia
+colors:
+  - gold
+  - pink
+  - blue
+  - green
+  - cream
+facing: up
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 136r
+render:
+  image: {}
+related:
+  - asset: walters-w88/lower-profile-head-on-long-blue-and-gold-rod
+    role: companion
+  - asset: walters-w88/short-blue-and-gold-curled-leaf-terminal
+    role: companion
+usage_notes:
+  - Bottom-left corner of a block; the long arm runs up the left edge and the short arm along the bottom.
+display_width:
+  - 100
+  - 300
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Dancing monkeys
+  object_identifier: W.88, fol. 136r
+  date: First quarter 14th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000277_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 0ca359b8bb9e459d4ce4b081bab988f943522ac776ec806f69b86008d6b51f9a
+license: null

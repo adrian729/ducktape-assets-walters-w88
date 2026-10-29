@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: woman-leading-harrow-horse
+title: Woman driving a horse that drags a harrow
+description: A woman in an orange-red robe and white wimple walks at the right, facing left, and raises a long green switch over a cream horse that walks left in front of her. The horse wears a dark collar and harness lines that run back to a green triangular harrow with dark teeth, dragged along the ground at the far left by a short shaft. Black contours; the background is transparent.
+type: illustration
+categories:
+  - humans
+  - animals
+subjects:
+  - woman
+  - horse
+  - harrow
+  - harness
+  - hood
+  - marginalia
+colors:
+  - orange
+  - green
+  - cream
+  - black
+  - white
+facing: left
+view: side
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 12r
+render:
+  image: {}
+usage_notes:
+  - The harrow is a solid green panel with dark teeth; the thin harness lines between horse and harrow are intentionally kept, so crop around the whole group.
+display_width:
+  - 300
+  - 700
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Woman leads horse drawing harrow
+  object_identifier: W.88, fol. 12r
+  date: First quarter 14th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000029_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 786a67d0859891328f4684c40b1505fab2818b277f664d09ce35a66d91e18c58
+license: null

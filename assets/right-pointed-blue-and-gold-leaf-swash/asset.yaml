@@ -1,0 +1,47 @@
+# descriptive: find it and understand it
+id: right-pointed-blue-and-gold-leaf-swash
+title: Pointed blue and gold leaf swash
+description: A blue foliate swash rising from the lower left to the upper right, shaped like an angular leaf with a spiky pointed lobe at its right end. A gold stroke runs along its length, white lines and small white marks pick out the inner edges, and a thin black contour surrounds it. The left end is cut flat where it joined the decorated letter; the background is transparent.
+type: ornament
+categories:
+  - scrollwork
+  - botanical
+subjects:
+  - leaf
+  - flourish
+  - terminal
+  - marginalia
+colors:
+  - blue
+  - gold
+  - white
+  - black
+facing: right
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 52r
+render:
+  image: {}
+display_width:
+  - 150
+  - 400
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Cut flat at the left edge where it left the decorated letter.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Monkeys singing
+  object_identifier: W.88, fol. 52r
+  date: First quarter 14th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e
+license: null

@@ -1,0 +1,43 @@
+# descriptive: find it and understand it
+id: orange-trefoil-flower
+title: Small orange trefoil flower
+description: A small orange flower of three rounded lobes, one pointing up and two to the sides, with a short stub of stem below. Each lobe is edged with a painted white outline and carries a white dot or stroke; a thin dark contour surrounds the whole. The background is transparent.
+type: ornament
+categories:
+  - floral
+subjects:
+  - flower
+  - marginalia
+colors:
+  - orange
+  - white
+  - gray
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 52r
+render:
+  image: {}
+display_width:
+  - 40
+  - 120
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Only 283 px wide; the white outline sits on a soft grey-green rim that shows on dark grounds.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Monkeys singing
+  object_identifier: W.88, fol. 52r
+  date: First quarter 14th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e
+license: null

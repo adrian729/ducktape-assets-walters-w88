@@ -1,0 +1,54 @@
+# descriptive: find it and understand it
+id: seated-harp-player
+title: Seated harper in a gold tunic
+description: A man in a gold tunic and a white cap sits in profile facing right on a blue box-like bench and plays a tall triangular harp with an orange-red frame and white strings, one hand raised to the top of the frame, the other plucking the strings. Brown hose, one foot hanging below the seat, black contours; the background is transparent.
+type: illustration
+categories:
+  - humans
+  - music
+subjects:
+  - man
+  - musician
+  - harp
+  - bench
+  - cap
+  - marginalia
+colors:
+  - gold
+  - blue
+  - red
+  - cream
+  - black
+facing: right
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: 169r
+render:
+  image: {}
+related:
+  - asset: walters-w88/dancing-dog
+    role: companion
+usage_notes:
+  - Pairs with dancing-dog, which dances to this harp; set the dog at the right so the two face each other.
+display_width:
+  - 200
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-source-mask
+  institution: Walters Art Museum
+  object_title: Man playing harp and dog dancing
+  object_identifier: W.88, fol. 169r
+  date: First quarter 14th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 82c7f9f4adc02fba6937419297b5c12170b383e56ee28d589fa10e55ff0ed0ba
+license: null

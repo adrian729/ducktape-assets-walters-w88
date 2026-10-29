@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: dancing-dog
+title: Dog dancing on its hind legs
+description: A pale grey-green dog rears up on its hind legs facing left, forelegs raised and bent in front of its chest, mouth open and ears back, its long tail curving out to the right and ending in a hooked tip. Heavy black contours with grey-blue shading on a cream-grey body; the background is transparent.
+type: illustration
+categories:
+  - animals
+  - fantasy
+subjects:
+  - dog
+  - dancer
+  - drollery
+  - marginalia
+colors:
+  - gray
+  - cream
+  - black
+facing: left
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: 169r
+render:
+  image: {}
+related:
+  - asset: walters-w88/seated-harp-player
+    role: companion
+usage_notes:
+  - Dances to the harp of seated-harp-player; placed to the right of the player the two face each other.
+display_width:
+  - 200
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-source-mask
+  institution: Walters Art Museum
+  object_title: Man playing harp and dog dancing
+  object_identifier: W.88, fol. 169r
+  date: First quarter 14th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 82c7f9f4adc02fba6937419297b5c12170b383e56ee28d589fa10e55ff0ed0ba
+license: null

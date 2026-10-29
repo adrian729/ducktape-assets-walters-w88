@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: monkeys-playing-chess
+title: Two monkeys playing chess
+description: Two tan monkeys with hatched fur sit facing each other on either side of an upright gold chequered board painted on a black ground between them. The left monkey holds up a small gold chess piece in one hand; the right monkey rests a hand on the board. Both sit with bent legs and splayed feet, in heavy black contours; the background is transparent.
+type: illustration
+categories:
+  - animals
+  - fantasy
+subjects:
+  - monkey
+  - chess
+  - chessboard
+  - drollery
+  - marginalia
+colors:
+  - tan
+  - gold
+  - black
+  - brown
+facing: mixed
+view: side
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 186r
+render:
+  image: {}
+usage_notes:
+  - One scene; the board is held between the two players and both hands overlap it, so do not crop it apart.
+display_width:
+  - 300
+  - 700
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Monkeys playing chess
+  object_identifier: W.88, fol. 186r
+  date: First quarter 14th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000377_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 97a258a8c25edee5ea3c493f4a398ee320ce69a313ebb305bb995788de12d3fa
+license: null

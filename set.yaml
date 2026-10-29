@@ -1,0 +1,21 @@
+id: walters-w88
+title: Walters W.88, Book of Hours monkeys and musicians
+summary: Monkeys singing, dancing and playing chess, a harpist with a dancing dog and a woman leading a harrow horse, from the margins of Walters Ms. W.88, a Book of Hours of the first quarter of the 14th century, grouped by folio.
+kind: historical
+author: adrian729
+maintainer: https://github.com/adrian729/ducktape-assets/issues
+license:
+  artwork: CC0-1.0
+  notes: Extracted from Digital Walters manuscript images (CC0); see SOURCES.md.
+period: "first quarter of the 14th century"
+region: northern France or Flanders
+style: Gothic illumination, marginalia
+origin:
+  institution: Walters Art Museum
+  object_identifier: "W.88"
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html
+tags:
+  - book-of-hours
+  - monkeys
+  - musicians
+  - marginalia

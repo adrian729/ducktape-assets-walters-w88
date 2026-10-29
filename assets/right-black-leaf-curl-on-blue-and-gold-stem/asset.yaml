@@ -1,0 +1,57 @@
+# descriptive: find it and understand it
+id: right-black-leaf-curl-on-blue-and-gold-stem
+title: Black leaf scroll rising from a painted stem
+description: A painted stem of pink, blue and gold stripes runs diagonally from the lower left and ends in a blue and pink angular node, from which a thin black ink line climbs upward with small solid leaf blobs, loops once halfway up and ends in a hooked tip at the top. Black contours; the background is transparent.
+type: ornament
+categories:
+  - scrollwork
+  - botanical
+subjects:
+  - flourish
+  - leaf
+  - stem
+  - rod
+  - marginalia
+colors:
+  - black
+  - blue
+  - pink
+  - gold
+facing: up
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 52r
+render:
+  image: {}
+related:
+  - asset: walters-w88/upper-margin-with-three-grotesque-heads
+    role: companion
+  - asset: walters-w88/left-rod-with-two-profile-heads
+    role: companion
+  - asset: walters-w88/lower-black-foliate-curl
+    role: companion
+usage_notes:
+  - Right end of the fol. 52r bottom bar; the flourish climbs the right edge of a block.
+display_width:
+  - 150
+  - 400
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The painted stem is cut flat at the left edge where it left the bar border.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Monkeys singing
+  object_identifier: W.88, fol. 52r
+  date: First quarter 14th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e
+license: null

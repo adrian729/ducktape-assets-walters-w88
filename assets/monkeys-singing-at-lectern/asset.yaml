@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: monkeys-singing-at-lectern
+title: Two monkeys singing at a lectern
+description: Two cream monkeys with hatched fur stand upright one behind the other at the left, mouths open in song, facing right towards a tall brown lectern. The front monkey stretches an arm to the open book on the slanted desk, whose pages show ruled lines of text; the lectern stands on a tall ochre-brown foot. Black contours; the background is transparent.
+type: illustration
+categories:
+  - animals
+  - music
+  - reading
+  - fantasy
+subjects:
+  - monkey
+  - choir
+  - lectern
+  - book
+  - drollery
+  - marginalia
+colors:
+  - cream
+  - brown
+  - black
+facing: right
+view: side
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 52r
+render:
+  image: {}
+display_width:
+  - 250
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Monkeys singing
+  object_identifier: W.88, fol. 52r
+  date: First quarter 14th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e
+license: null

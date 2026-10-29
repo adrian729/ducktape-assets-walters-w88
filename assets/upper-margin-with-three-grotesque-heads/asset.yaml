@@ -1,0 +1,60 @@
+# descriptive: find it and understand it
+id: upper-margin-with-three-grotesque-heads
+title: Top-margin bar with a crawling hybrid and three heads
+description: A long horizontal bar from the top margin. At the left it ends in a blue angular foliate knot with orange-tipped lobes and a gold disc; the bar runs right as a blue band with a white line, a pink band with white dots and a thin gold rule, then thins into a plain rod. On the right half a blue four-legged hybrid with a human head crawls to the right, a small bald grotesque head sits on the rod, and the bar ends in a larger head in a white hood. Black contours; the background is transparent.
+type: divider
+categories:
+  - hybrids
+  - fantasy
+  - scrollwork
+subjects:
+  - rod
+  - head
+  - grotesque
+  - creature
+  - hood
+  - leaf
+  - marginalia
+colors:
+  - blue
+  - black
+  - pink
+  - gold
+  - cream
+facing: right
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 52r
+render:
+  image: {}
+related:
+  - asset: walters-w88/left-rod-with-two-profile-heads
+    role: companion
+  - asset: walters-w88/lower-black-foliate-curl
+    role: companion
+  - asset: walters-w88/right-black-leaf-curl-on-blue-and-gold-stem
+    role: companion
+usage_notes:
+  - Top side of the fol. 52r bar border; sits above a block with left-rod-with-two-profile-heads down its left edge.
+display_width:
+  - 400
+  - 1200
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Monkeys singing
+  object_identifier: W.88, fol. 52r
+  date: First quarter 14th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e
+license: null

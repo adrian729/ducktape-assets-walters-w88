@@ -1,0 +1,46 @@
+# descriptive: find it and understand it
+id: two-dancing-monkeys
+title: Two monkeys dancing hand in hand
+description: Two cream monkeys dance leaning away from each other, joined by their clasped inner hands at the centre, each raising the outer arm with a closed fist. The left monkey has hatched fur and faces right; the right one is smooth and faces left; both stand on bent legs with splayed feet. Black contours with light tan shading; the background is transparent.
+type: illustration
+categories:
+  - animals
+  - fantasy
+subjects:
+  - monkey
+  - dancer
+  - drollery
+  - marginalia
+colors:
+  - cream
+  - black
+  - tan
+facing: mixed
+view: side
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 136r
+render:
+  image: {}
+display_width:
+  - 300
+  - 700
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Dancing monkeys
+  object_identifier: W.88, fol. 136r
+  date: First quarter 14th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000277_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 0ca359b8bb9e459d4ce4b081bab988f943522ac776ec806f69b86008d6b51f9a
+license: null
